@@ -42,6 +42,9 @@ const Color = () => {
           className='color-circle red'
           onClick={(e) => handleClick(e)}
         ></button>
+        <div className='color-instructions'>
+          <h4>*Click to change color</h4>
+        </div>
       </div>
     </>
   )

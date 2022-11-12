@@ -125,7 +125,6 @@ function App() {
               </div>
               <div className='color-container'>
                 <Color />
-                {/* <Color /> */}
               </div>
             </div>
           </section>
@@ -144,6 +143,7 @@ function App() {
             <Suspense fallback={null}>
               {/* <Building /> */}
               {/* <Cube /> */}
+
               <Cam />
             </Suspense>
           </Canvas>
