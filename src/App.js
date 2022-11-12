@@ -110,10 +110,9 @@ function App() {
             <div className='content-container3'>
               <div className='title_left'>Your Travel Companion</div>
               <div className='text_left'>
-                The bubly, super social and delightfully small instax mini loves
-                nothing more than bringing friends and family together. Designed
-                to fit seamlessly into your everday life, this little gem is
-                easy to use and all without compromising on print quality
+                Compact,light-weight and waterproof the instax mini makes the
+                perfect travel companion. Never miss a shot on your happiest
+                adventures.
               </div>
             </div>
           </section>
